@@ -48,8 +48,8 @@
 - one column
 
     ```sqlite
-        SELECT column
-        FROM Table;
+    SELECT column
+    FROM Data;
     ```
 
 - multiple columns
@@ -58,20 +58,20 @@
     SELECT column
     		, column1
     		, column2
-    FROM Table;
+    FROM Data;
     ```
  - all columns
 
 	```sqlite
     SELECT *
-    FROM Table;
+    FROM Data;
    ```
    
 - sample data (head - first 5 rows)
 
     ```sqlite
     SELECT *
-    FROM Table
+    FROM Data
     LIMIT 5;
     ```
 
@@ -126,7 +126,7 @@ INSERT INTO Name
 CREATE TEMPORARY TABLE Temp AS
 (
     SELECT *
-    FROM Table
+    FROM Data
     WHERE column = 'condition'
 )
 ```
