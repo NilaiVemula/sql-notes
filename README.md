@@ -6,4 +6,4 @@ Notes and Assignments from my SQL for Data Science class on Coursera
 **Date**: 8/12/2020
 
 ## Table of Contents:
-- **Week 1**: [Getting Started and Selecting & Retrieving Data with SQL](week1/Selecting_and_Retrieving_Data_with_SQL.md)
+- **Week 1**: [Getting Started and Selecting & Retrieving Data with SQL](week_1/Selecting_and_Retrieving_Data_with_SQL.md)
