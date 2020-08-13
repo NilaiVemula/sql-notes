@@ -1,5 +1,5 @@
 # sql-notes
-Notes and Assignments from my SQL for Data Science class on Coursera
+Notes and Assignments from my SQL for Data Science class on [Coursera](https://www.coursera.org/learn/sql-for-data-science)
 
 **Author**: Nilai Vemula
 
