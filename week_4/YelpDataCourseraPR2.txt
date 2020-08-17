@@ -358,6 +358,8 @@ Copy and Paste the Resulting Table Below (2 columns - star rating and count):
 
 	Answer:
 
+	Yes, there are more reviews with love than hate.
+
 	
 	SQL code used to arrive at answer:
 
